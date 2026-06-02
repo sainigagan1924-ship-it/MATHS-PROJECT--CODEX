@@ -43,4 +43,4 @@ Set `MONGO_URI` in `server/.env`. If MongoDB is unavailable, calculations still 
 
 ## Notes
 
-The calculators intentionally stay focused: inputs, table modal, result, formula, graph, and interpretation. The UI avoids dashboards and decorative sections so students can get answers quickly.
+The calculators intentionally stay focused: inputs, table modal, result, formula, graph, and interpretation. The UI avoids dashboards and decorative sections so students can get answers quickly..
